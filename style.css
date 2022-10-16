@@ -1,0 +1,14 @@
+body {
+  background: #ffaeae;
+}
+
+p {
+  color: #3a3a3a;
+  width: 100%;
+  font-family: Arial;
+}
+
+p.title {
+  color: #7a6666;
+  text-align: center;
+}
